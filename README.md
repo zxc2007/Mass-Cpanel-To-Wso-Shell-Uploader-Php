@@ -1,4 +1,4 @@
-# Mass Active cPanel To Shell Uploader PHP
+# Mass Active cPanel To Wso Shell Uploader PHP
 
 PHP Mass cPanel To Wso Shell Uploader [Only WSO]
 
