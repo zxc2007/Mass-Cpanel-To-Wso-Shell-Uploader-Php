@@ -1,1 +1,1 @@
-# masscp2shell
+# Mass Active Cpanel To Shell Uploader PHP
